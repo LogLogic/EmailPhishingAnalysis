@@ -39,7 +39,7 @@ While `storage.googleapis.com` is a legitimate Google Cloud storage domain, atta
 The `storage.googleapis.com` link used in the email was flagged by **VirusTotal** as hosting phishing content.
 
 **Conclusion:**  
-Although the domain itself is legitimate, the hosted **object (file/link)** was **malicious**.
+Although the domain itself is legitimate, the hosted **object (http://storage.googleapis.com/hqyoqzatqthj/aemmfcylvxeo.html)** was **malicious**.
 
 ---
 

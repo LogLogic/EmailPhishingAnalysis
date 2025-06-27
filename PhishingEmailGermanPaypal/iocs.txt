@@ -1,0 +1,4 @@
+# IOC List
+SHA-256: 13945ecc33afee74ac7f72e1d5bb73050894356c4bf63d02a1a53e76830567f5
+Suspicious Link: http://storage.googleapis.com/hqyoqzatqthj/aemmfcylvxeo.html
+Return-Path Domain: rjttznyzjzjydnillquh.designclub.uk.com

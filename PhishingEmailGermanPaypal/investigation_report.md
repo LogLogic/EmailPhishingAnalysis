@@ -13,6 +13,7 @@
 **Return-Path:**  
 bounce@rjttznyzjzjydnillquh.designclub.uk.com
 
+
 ![Return-Path Screenshot](./screenshots/return-path.png)
 
 **Analysis:**  
@@ -25,6 +26,8 @@ The domain `designclub.uk.com` is not affiliated with PayPal and appears randoml
 ### 2.1 Link Extracted from Email Body
 **Decoded Target Domain:**  
 storage.googleapis.com
+
+![Decoded Link](./screenshots/phishing-link.png)
 
 **How Found:**  
 The HTML source of the email was manually reviewed. The clickable button contained an obfuscated link, which was base64-decoded and revealed a redirection to a file hosted on `storage.googleapis.com`.
@@ -39,6 +42,8 @@ While `storage.googleapis.com` is a legitimate Google Cloud storage domain, atta
 ### 3.1 VirusTotal Report  
 **Result:**  
 The `storage.googleapis.com` link used in the email was flagged by **VirusTotal** as hosting phishing content.
+
+![VirusTotal Detection](./screenshots/virustotal-analysis2.png)
 
 **Conclusion:**  
 Although the domain itself is legitimate, the hosted **object (http://storage.googleapis.com/hqyoqzatqthj/aemmfcylvxeo.html)** was **malicious**.

@@ -13,6 +13,8 @@
 **Return-Path:**  
 bounce@rjttznyzjzjydnillquh.designclub.uk.com
 
+![Return-Path Screenshot](./screenshots/return-path.png)
+
 **Analysis:**  
 The domain `designclub.uk.com` is not affiliated with PayPal and appears randomly generated (`rjttznyzjzjydnillquh`). This is a common sign of mass phishing operations using domain shadowing or subdomain abuse.
 

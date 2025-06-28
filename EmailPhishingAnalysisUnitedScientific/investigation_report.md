@@ -75,7 +75,8 @@ The executable was submitted to VirusTotal and flagged by multiple antivirus eng
 ---
 
 ## 5. Final Verdict
-**Is this email a phishing attempt?**
+
+**Is this email a phishing attempt?**  
 **Yes.**
 
 ### Indicators:

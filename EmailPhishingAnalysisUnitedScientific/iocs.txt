@@ -1,1 +1,21 @@
+# IOCs
+
+# Email Details
+Sender Email: yanting@united.com.sg
+Recipient Email: admin@malware-traffic-analysis.net
+Subject Line: united scientific equipment
+Date Sent: 02/08/2021
+
+# Network Indicators
+Originating IP: 71.19.248.52
+IP Country: Canada
+
+# Attachment
+Unzipped Filename: united scientific equipent.exe
+
+# File Hashes
+SHA256: 9909753bfb0ac8ab165bab3555233d03b01a9274a92e57c022f87ccbe51ca415
+
+# Verdict
+Attachment: Malicious (Confirmed via VirusTotal)
 

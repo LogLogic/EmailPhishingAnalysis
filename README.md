@@ -18,10 +18,3 @@ A detailed analysis of a spoofed PayPal phishing email targeting German users. I
 
 Business-themed phishing investigation involving a spoofed Singapore domain and a ZIP file containing a malware-laced `.exe`. Includes header and IP analysis, hash validation via `certutil`, VirusTotal confirmation, and full IOC report.  
 
----
-
-### 🛠 Email Header & Link Analyzer (Python Script)  
-[🔗 View Tool](https://github.com/LogLogic/EmailHeaderLinkAnalyzer)  
-
-Python tool that automates phishing investigation steps. Parses headers, extracts and decodes URLs, checks domain mismatches, and integrates with VirusTotal and WHOIS. Generates analyst-ready triage reports.  
-
